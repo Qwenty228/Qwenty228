@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🧑‍💻 About Me
-I'm a passionate developer with a strong focus on Python, and I'm currently diving deep into the world of quantum computing. My journey started with robotics, which sparked my interest in computers and machine learning. Today, I'm honing my skills in quantum algorithms with a special focus on the Quantum Approximate Optimization Algorithm (QAOA) using Qiskit.
+I'm an engineering student with a strong focus on Python, and I'm currently diving deep into the world of quantum computing. My journey started with robotics, which sparked my interest in computers and machine learning. Today, I'm honing my skills in quantum algorithms with a special focus on the Quantum Approximate Optimization Algorithm (QAOA) using Qiskit.
 
 ## 🛠️ Technologies & Tools
 #### **Languages:**
