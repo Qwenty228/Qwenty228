@@ -1,6 +1,6 @@
 <!-- Full-width black background with centered GIF -->
 <p align="center" style="background-color:black;">
-    <img src="https://github.com/user-attachments/assets/0208cbdf-bcd4-4260-8647-edef08f453e1" >
+    <img src="https://github.com/user-attachments/assets/783484c2-635e-4bf2-9e67-55814118b613">
 </p>
 <!-- section line-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
