@@ -52,11 +52,9 @@ Here are some of my favorite projects:
 
 
 ## 📊 GitHub Stats
-<p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Qwenty228&show_icons=true&theme=radical" /> -->
-<img src="https://github-readme-stats-two-rosy-29.vercel.app/api/top-langs/?username=Qwenty228&layout=donut&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true" alt="qwenty228" />
-</p>
 <p align="center">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Qwenty228&show_icons=true&theme=radical" /> -->
+    <img src="https://github-readme-stats-two-rosy-29.vercel.app/api/top-langs/?username=Qwenty228&layout=donut&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true" alt="qwenty228" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwenty228&theme=dark" alt="qwenty228" />
 </p>
 
