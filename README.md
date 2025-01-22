@@ -56,9 +56,9 @@ Here are some of my favorite projects:
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Qwenty228&show_icons=true&theme=radical" /> -->
     <img src="https://github-readme-stats-two-rosy-29.vercel.app/api/top-langs/?username=Qwenty228&layout=donut&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true" alt="qwenty228" />
 </p>
-<p align="center">
+<!-- <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwenty228&theme=dark" alt="qwenty228" />
-</p>
+</p> -->
 
 <!-- section line-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
